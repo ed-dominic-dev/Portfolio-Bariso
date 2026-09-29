@@ -405,6 +405,7 @@ section.active {
 
 .resume-box h2 {
   font-size: 4.5rem;
+  text-wrap: balance;
 }
 
 .resume-box p {
@@ -413,6 +414,7 @@ section.active {
 
 .resume-box .desc {
   margin: 2rem 0 2.5rem;
+  text-wrap: pretty;
 }
 
 .resume-box .resume-btn {
